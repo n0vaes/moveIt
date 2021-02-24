@@ -20,6 +20,7 @@ The project enables you the possibility to time breaks during your work hours, w
 - TypeScript
 - React
 - Next.js
+- Context API
 
 ## Skills/Concepts Learned
 
