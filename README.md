@@ -13,27 +13,32 @@ MoveIt! is a study project developed during Rocketseat's NLW#4.
 
 The project enables you the possibility to time breaks during your work hours, while proposing you exercise and rewarding experience for it!
 
+!!! Disclaimer !!!
+
+This project is set to 3 seconds on the timer just so it's features can be used. The correct timer is 25 minutes.
+
 <br /> <br />
 
 ## Features
 
 - TypeScript
-- React
 - Next.js
-- Context API
 
 ## Skills/Concepts Learned
 
-- Will be added at the end of the project
+- How to use states on different componets by using Context API
+- How Next.js performs delivering a ready front end page that can be used by search crawlers
+- The use of cookies to save previous data
 
 ## Getting started
 
-Import the codes
+Clone the repository
 
 ```sh
 yarn start
+yarn dev
 ```
 
 ## Project
 
-- Soon images of the project will be provided
+- Access https://move-it-n0vaes.vercel.app/ and check it out!
