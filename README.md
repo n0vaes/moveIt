@@ -3,12 +3,9 @@
 MoveIt! React application
 </h1>
 
-<img align="center" src="https://media.giphy.com/media/DqOm2POwq2q7Q9USUl/giphy.gif">
-
 <hr />
 
 > Study project to learn React/Typescript/Next.js
-
 
 
 ## ℹ️ About MoveIt!
@@ -20,7 +17,11 @@ The project enables you the possibility to time breaks during your work hours, w
 
 This project is set to 3 seconds on the timer just so it's features can be used. The correct timer is 25 minutes.
 
-<br /> <br />
+<br /> 
+
+
+<div align="center"><img src="https://media.giphy.com/media/DqOm2POwq2q7Q9USUl/giphy.gif"></div>
+
 
 ## :white_check_mark: Features
 
