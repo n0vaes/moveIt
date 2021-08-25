@@ -13,7 +13,7 @@ MoveIt! is a study project developed during Rocketseat's NLW#4.
 
 The project enables you the possibility to time breaks during your work hours, while proposing you exercise and rewarding experience for it!
 
-!!! Disclaimer !!!
+:warning: Disclaimer :warning:
 
 This project is set to 3 seconds on the timer just so it's features can be used. The correct timer is 25 minutes.
 
