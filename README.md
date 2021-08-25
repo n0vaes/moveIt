@@ -3,11 +3,13 @@
 MoveIt! React application
 </h1>
 
+<img align="center" src="https://media.giphy.com/media/DqOm2POwq2q7Q9USUl/giphy.gif">
+
 <hr />
 
 > Study project to learn React/Typescript/Next.js
 
-<img align="center" src="https://media.giphy.com/media/DqOm2POwq2q7Q9USUl/giphy.gif">
+
 
 ## ℹ️ About MoveIt!
 MoveIt! is a study project developed during Rocketseat's NLW#4.
