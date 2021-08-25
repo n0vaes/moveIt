@@ -42,3 +42,5 @@ yarn dev
 ## 🎲 Project
 
 - Access https://move-it-n0vaes.vercel.app/ and check it out!
+
+<img align="left" src="https://media.giphy.com/media/DqOm2POwq2q7Q9USUl/giphy.gif">
