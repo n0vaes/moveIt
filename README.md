@@ -7,6 +7,7 @@ MoveIt! React application
 
 > Study project to learn React/Typescript/Next.js
 
+<img align="center" src="https://media.giphy.com/media/DqOm2POwq2q7Q9USUl/giphy.gif">
 
 ## ℹ️ About MoveIt!
 MoveIt! is a study project developed during Rocketseat's NLW#4.
@@ -43,4 +44,4 @@ yarn dev
 
 - Access https://move-it-n0vaes.vercel.app/ and check it out!
 
-<img align="left" src="https://media.giphy.com/media/DqOm2POwq2q7Q9USUl/giphy.gif">
+
